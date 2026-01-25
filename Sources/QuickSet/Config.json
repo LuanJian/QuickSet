@@ -1,0 +1,76 @@
+{
+  "softwareRecommendations": [
+    {
+      "name": "夸克浏览器",
+      "command": "",
+      "description": "更强大的AI浏览器，Chromium内核可安装扩展插件，支持多端同步",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://www.quark.cn/",
+      "softwareCategory": "装机必备"
+    },
+    {
+      "name": "IINA",
+      "command": "",
+      "description": "更加现代的本地视频播放器",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/iina/iina",
+      "softwareCategory": "装机必备"
+    },
+    {
+      "name": "闪电说",
+      "command": "",
+      "description": "AI 语音输入法，本地 AI 引擎可实现离线语音输入，无需等待云端响应。即说即显，打字速度提升 4 倍",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://shandianshuo.cn/",
+      "softwareCategory": "进阶提升"
+    },
+    {
+      "name": "AltTab",
+      "command": "",
+      "description": "实现 Windows 上的 alt-tab 快速切换应用程序",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/lwouis/alt-tab-macos/",
+      "softwareCategory": "进阶提升"
+    },
+    {
+      "name": "Input Source Pro",
+      "command": "",
+      "description": "切换软件时根据规则自动切换对应的输入法",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/runjuu/InputSourcePro",
+      "softwareCategory": "进阶提升"
+    },
+    {
+      "name": "腾讯柠檬清理",
+      "command": "",
+      "description": "腾讯出品的系统清理软件，应用卸载、大文件清理、重复文件清理、相似照片清理、隐私清理、磁盘空间分析等功能",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://lemon.qq.com/",
+      "softwareCategory": "进阶提升"
+    },
+    {
+      "name": "ClashX",
+      "command": "",
+      "description": "简单轻量化的代理客户端，提供了强大的代理功能",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/MetaCubeX/ClashX.Meta",
+      "softwareCategory": "其他工具"
+    },
+    {
+      "name": "ClashMac",
+      "command": "",
+      "description": "轻量级 Clash 规则代理客户端",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/666OS/ClashMac",
+      "softwareCategory": "其他工具"
+    },
+    {
+      "name": "LuLu",
+      "command": "",
+      "description": "免费的开源 macOS 防火墙，可用于拦截软件联网，避免检测更新等",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/objective-see/LuLu",
+      "softwareCategory": "其他工具"
+    }
+  ]
+}
