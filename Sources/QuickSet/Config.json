@@ -71,6 +71,54 @@
       "isSoftwareRecommendation": true,
       "recommendationURL": "https://github.com/objective-see/LuLu",
       "softwareCategory": "其他工具"
+    },
+    {
+      "name": "Snipaste",
+      "command": "",
+      "description": "简单易用的截图软件，但不支持长截图等高级功能",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://zh.snipaste.com/",
+      "softwareCategory": "装机必备"
+    },
+    {
+      "name": "Mos",
+      "command": "",
+      "description": "平滑你的鼠标滚动效果，支持翻转鼠标滚动方向",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/Caldis/Mos",
+      "softwareCategory": "进阶提升"
+    },
+    {
+      "name": "draw.io",
+      "command": "",
+      "description": "开源、跨平台的图表绘制工具",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/jgraph/drawio-desktop",
+      "softwareCategory": "装机必备"
+    },
+    {
+      "name": "OnlySwitch",
+      "command": "",
+      "description": "位于菜单栏中的快捷设置开关",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/jgraph/drawio-desktop",
+      "softwareCategory": "装机必备"
+    },
+    {
+      "name": "DockDoor",
+      "command": "",
+      "description": "增加 Dock 栏预览效果",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://github.com/ejbills/DockDoor",
+      "softwareCategory": "进阶提升"
+    },
+    {
+      "name": "SwitchHosts",
+      "command": "",
+      "description": "管理、切换多个 hosts 方案",
+      "isSoftwareRecommendation": true,
+      "recommendationURL": "https://switchhosts.vercel.app/zh",
+      "softwareCategory": "其他工具"
     }
   ]
 }
